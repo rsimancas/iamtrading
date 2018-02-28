@@ -1,0 +1,1194 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wind",
+				"windowHeight"
+			],
+			[
+				"Item",
+				"ItemGYCode"
+			],
+			[
+				"Iten",
+				"ItemNumSupplier"
+			],
+			[
+				"VendorQ",
+				"VendorQuoteId"
+			],
+			[
+				"ItemName",
+				"ItemNameSupplier"
+			],
+			[
+				"store",
+				"storeCurrencies"
+			],
+			[
+				"C",
+				"Customer"
+			],
+			[
+				"W",
+				"Weight"
+			],
+			[
+				"Qh",
+				"qHeaderId"
+			],
+			[
+				"Gener",
+				"GeneralCharges"
+			],
+			[
+				"CHarge",
+				"storeChargesDescriptions"
+			],
+			[
+				"storeG",
+				"storeChargesCategories"
+			],
+			[
+				"row",
+				"rowEditingGeneralCharges"
+			],
+			[
+				"QH",
+				"QHeaderId"
+			],
+			[
+				"QHeader",
+				"QHeaderId"
+			],
+			[
+				"ChargeDs",
+				"ChargeDescName"
+			],
+			[
+				"load",
+				"loadGeneralChargesPluginEdit"
+			],
+			[
+				"CC",
+				"CClearenceCurrencyRate"
+			],
+			[
+				"getC",
+				"getCustomsClearence"
+			],
+			[
+				"sel",
+				"selectedRecord"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"tool",
+				"tooltip"
+			],
+			[
+				"x_S",
+				"x_StatusName"
+			],
+			[
+				"QHe",
+				"QHeaderReference"
+			],
+			[
+				"set",
+				"setValue"
+			],
+			[
+				"read",
+				"readOnly"
+			],
+			[
+				"fiel",
+				"fieldLabel"
+			],
+			[
+				"text",
+				"textfield"
+			],
+			[
+				"fial",
+				"fieldLabel"
+			],
+			[
+				"date",
+				"datefield"
+			],
+			[
+				"colum",
+				"column"
+			],
+			[
+				"la",
+				"layout"
+			],
+			[
+				"field",
+				"fieldset"
+			],
+			[
+				"to",
+				"tooltip"
+			],
+			[
+				"get",
+				"getEl"
+			],
+			[
+				"def",
+				"defaultValue"
+			],
+			[
+				"Ch",
+				"ChargesDescriptions"
+			],
+			[
+				"Cus",
+				"CustomsClearence"
+			],
+			[
+				"total",
+				"totalToPaid"
+			],
+			[
+				"data",
+				"dataIndex"
+			],
+			[
+				"column",
+				"columnWidth"
+			],
+			[
+				"Sh",
+				"ShowOnlyCerradas"
+			],
+			[
+				"Show",
+				"ShowOnlyCerradas"
+			],
+			[
+				"che",
+				"checked"
+			],
+			[
+				"filt",
+				"filterBalance"
+			],
+			[
+				"char",
+				"chartB"
+			],
+			[
+				"fro",
+				"fromOnRenderForm"
+			],
+			[
+				"colu",
+				"column"
+			],
+			[
+				"con",
+				"contentChartA"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"Total",
+				"TotalGY"
+			],
+			[
+				"Tot",
+				"TotalGY"
+			],
+			[
+				"IAN",
+				"IAMTrading"
+			],
+			[
+				"col",
+				"columnWidth"
+			],
+			[
+				"filter",
+				"filterWithInvoice"
+			],
+			[
+				"cbo",
+				"cboWithInvoiceFilter"
+			],
+			[
+				"show",
+				"showOnlyWithBalance"
+			],
+			[
+				"ch",
+				"checked"
+			],
+			[
+				"msg",
+				"msgTarget"
+			],
+			[
+				"Pay",
+				"PayVendorDetailAmount"
+			],
+			[
+				"form",
+				"formBind"
+			],
+			[
+				"onC",
+				"onClickCloseButton"
+			],
+			[
+				"Qu",
+				"QuotesList"
+			],
+			[
+				"x-grid",
+				"x-grid-row-summary"
+			],
+			[
+				"sto",
+				"storeInvoices"
+			],
+			[
+				"min",
+				"minHeight"
+			],
+			[
+				"on",
+				"onClickAttach"
+			],
+			[
+				"de",
+				"defaultValue"
+			],
+			[
+				"grid",
+				"gridcolumn"
+			],
+			[
+				"Bank",
+				"BankID"
+			],
+			[
+				"Ban",
+				"BankID"
+			],
+			[
+				"pa",
+				"payselectedpov"
+			],
+			[
+				"Attac",
+				"AttachId"
+			],
+			[
+				"Att",
+				"AttachName"
+			],
+			[
+				"co",
+				"columnWidth"
+			],
+			[
+				"A",
+				"AppAuth"
+			],
+			[
+				"gri",
+				"gridHeader"
+			],
+			[
+				"ons",
+				"onSearchFieldChange"
+			],
+			[
+				"gr",
+				"gridPOVDetail"
+			],
+			[
+				"Re",
+				"ReversePaid"
+			],
+			[
+				"curre",
+				"currentRecord"
+			],
+			[
+				"ed",
+				"edititempanel"
+			],
+			[
+				"x_",
+				"x_GrandTotalBalance"
+			],
+			[
+				"bin",
+				"bindStore"
+			],
+			[
+				"Vendors",
+				"VendorsList"
+			],
+			[
+				"se",
+				"selectedRecord"
+			],
+			[
+				"selec",
+				"selectedRecord"
+			],
+			[
+				"edi",
+				"editvendorpanel"
+			],
+			[
+				"PayVe",
+				"PayVendorDetailCurrencyRate"
+			],
+			[
+				"cur",
+				"curRate"
+			],
+			[
+				"PO",
+				"POVCurrencyRate"
+			],
+			[
+				"x",
+				"x_InvoiceVendorBalance"
+			],
+			[
+				"POV",
+				"POVAmount"
+			],
+			[
+				"h",
+				"hbox"
+			],
+			[
+				"am",
+				"amountPU"
+			],
+			[
+				"amo",
+				"amountPO"
+			],
+			[
+				"amount",
+				"amountPO"
+			],
+			[
+				"amoun",
+				"amountPO"
+			],
+			[
+				"amountP",
+				"amountPU"
+			],
+			[
+				"POr",
+				"pOrderAmountNB"
+			],
+			[
+				"por",
+				"porderType"
+			],
+			[
+				"cu",
+				"currentRecord"
+			],
+			[
+				"st",
+				"store"
+			],
+			[
+				"getR",
+				"getRawValue"
+			],
+			[
+				"Pa",
+				"PayModeID"
+			],
+			[
+				"edit",
+				"editor"
+			],
+			[
+				"storePay",
+				"storePayVendorDetails"
+			],
+			[
+				"PayMode",
+				"PayModeID"
+			],
+			[
+				"Payment",
+				"PaymentVendorsDetails"
+			],
+			[
+				"storePOV",
+				"storePOVendorsDetails"
+			],
+			[
+				"vendor",
+				"vendorName"
+			],
+			[
+				"Ven",
+				"VendorName"
+			],
+			[
+				"veno",
+				"vendorId"
+			],
+			[
+				"Ia",
+				"IAMTrading"
+			],
+			[
+				"app",
+				"application"
+			],
+			[
+				"Vend",
+				"VendorId"
+			],
+			[
+				"da",
+				"data-view"
+			],
+			[
+				"doc",
+				"documentType"
+			],
+			[
+				"Curso",
+				"CursoName"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"ne",
+				"next"
+			],
+			[
+				"document",
+				"documentType"
+			],
+			[
+				"docum",
+				"documentType"
+			],
+			[
+				"recor",
+				"records"
+			],
+			[
+				"dis",
+				"disabled"
+			],
+			[
+				"btn",
+				"btnDelete"
+			],
+			[
+				"IAM",
+				"IAMTrading"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/controller/Home.js",
+			"settings":
+			{
+				"buffer_size": 3597,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/GlobalSettings.js",
+			"settings":
+			{
+				"buffer_size": 1511,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/view/EditQuoteHeader.js",
+			"settings":
+			{
+				"buffer_size": 110321,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/JSHint Inline/JSHint-Inline.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"fe",
+				"Fetch: File"
+			],
+			[
+				"",
+				"Fetch: Package"
+			],
+			[
+				"fet",
+				"Fetch: Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install ",
+				"Package Control: Install Package"
+			],
+			[
+				"snipp",
+				"Snippet: Bootstrap pagination"
+			],
+			[
+				"snip",
+				"Snippet: Bootstrap toolbar"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Rony/AppData/Roaming/Sublime Text 2/Packages/JSHint Gutter/.jshintrc",
+		"/C/Users/Rony/AppData/Roaming/Sublime Text 2/Packages/JSHint Gutter/JSHint.sublime-settings",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/view/VendorQuotesList.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/index.html",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/model/VendorQuotes.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/view/QuotesList.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/view/EditVendorQuote.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/model/Attachments.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/model/CurrencyRates.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/model/Documents.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/model/VendorQuotesDetail.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/store/VendorQuotesDetail.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/view/common/ToolBar.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/ux/form/Toolbar.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/store/VendorQuotes.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/model/Users.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/model/PurchaseOrdersVendors.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/model/Items.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/model/ChargesDescriptions.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/model/GeneralCharges.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/view/common/ContentPanel.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/view/EditQuoteDetail.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/model/CustomsClearence.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/view/ChargesDescriptionsList.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/view/EditQuoteHeader.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/model/QuoteHeader.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/store/CustomsClearence.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/model/ChargesCategories.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/model/Brokers.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/view/QuoteDetailsList.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/view/PaySelectedPOV.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/store/GeneralCharges.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/resources/css/data-view.css",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/store/ChargesCategories.js",
+		"/C/Users/Rony/AppData/Roaming/Sublime Text 2/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/view/appViewPort.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/GlobalSettings.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/view/RolesList.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/store/Roles.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/model/Roles.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/view/ShowDocuments.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/view/EditVendor.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/controller/Home.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/model/PaymentVendorDetails.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/model/QuoteChart.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/store/QuoteChart.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/resources/css/app.css",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/view/common/MainHeader.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/view/VendorsList.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/view/ItemsList.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/view/HistorySearchList.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/view/BrokersList.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/view/QuoteChart.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/model/Vendors.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/view/EditItem.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/overrides/view/AbstractView.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/controller/Logon.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/store/Attachments.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/model/BankAccounts.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/store/BankAccounts.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/store/QuoteHeader.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/view/BankAccountsList.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/view/BanksList.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/model/Banks.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/model/Images.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/store/Images.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/view/SearchTrigger.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/store/PaymentVendorDetails.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/view/PaymentModesList.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/model/PaymentVendors.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/model/Customers.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/store/Status.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/model/POVendorsDetails.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/ux/CheckColumnPatch.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/view/CurrencyRatesList.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/view/CustomersList.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/view/DocumentTypesList.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/view/HistoryDetail.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/view/SequencesList.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/view/StatusList.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/overrides/data/reader/Reader.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/store/Documents.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/model/Cursos.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/store/Cursos.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/view/CursosList.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/store/PurchaseOrdersVendors.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/view/DistribucionList.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/model/QuoteDocuments.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/store/QuoteDocuments.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/store/DocumentTypes.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/ux/DataView/LabelEditor.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/view/ShowImage.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/view/DocumentFileUpload.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/ux/form/SearchField.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/overrides/data/proxy/Proxy.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/overrides/form/field/Date.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/ux/grid/FiltersFeature.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/overrides/form/Date.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/overrides/data/Model.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/scripts/behavior.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/model/PurchaseOrders.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/ux/CheckColumn.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/store/CurrencyRates.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/overrides/util/Format.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/store/POVendorsDetails.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/ux/ScriptManager.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/overrides/grid/header/Container.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/model/QuoteDetails.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/store/PurchaseOrders.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/ux/form/Currency.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/store/Customers.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/model/DolarTodayUSD.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/store/DolarTodayUSD.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/overrides/toolbar/Paging.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/store/Brokers.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/model/Status.js",
+		"/C/Users/Rony/Google Drive/DEV/WEB/IAMTrading/app/app/model/Sequences.js",
+		"/C/Users/Rony/OneDrive/DEV/WEB/IAMTrading/app/app/view/ItemsList.js.bak.js",
+		"/C/Users/Rony/OneDrive/DEV/WEB/IAMTrading/app/app/view/EditItem.js",
+		"/C/Users/Rony/OneDrive/DEV/WEB/IAMTrading/app/app.js",
+		"/C/Users/Rony/OneDrive/DEV/WEB/IAMTrading/app/overrides/toolbar/Paging.js",
+		"/C/Users/Rony/OneDrive/DEV/WEB/IAMTrading/app/app/model/Items.js",
+		"/C/Users/Rony/OneDrive/DEV/WEB/IAMTrading/app/app/resources/css/app.css",
+		"/C/Users/Rony/OneDrive/DEV/WEB/IAMTrading/app/index.html",
+		"/C/Users/Rony/OneDrive/DEV/WEB/IAMTrading/app/app/model/QuoteHeader.js",
+		"/C/Users/Rony/OneDrive/DEV/WEB/IAMTrading/app/app/view/EditQuoteDetail.js",
+		"/C/Users/Rony/OneDrive/DEV/WEB/IAMTrading/app/app/store/Status.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"onClickViewDetails",
+			"Nuvem.",
+			"isFinished",
+			"storeVendorQuoteDetail",
+			"gridQuoteDetails",
+			"storeQuoteDetail",
+			"ItemKey",
+			"QHeader",
+			"qHeaderId",
+			"QHeaderId",
+			"EditQuoteHeader",
+			"Brokers",
+			"VendorQuoteId",
+			"VendorQuotes",
+			"VendorQuoteId",
+			"VendorQuotes",
+			"POrderId",
+			"PurchaseOrders",
+			"POrderId",
+			"PurchaseOrders",
+			"recordIndex",
+			"var view = grid.view;",
+			"me.gotoAt",
+			"getSilentMode",
+			"_silentMode",
+			"checkcolumn",
+			"check",
+			"onClickActionColumn",
+			"onClickDe",
+			"loadGeneralChargesPluginEdit",
+			"rowEditing",
+			"onBackToQuotes",
+			"onClickEditHeader",
+			"EditHeader",
+			"Edit",
+			"Customer",
+			"EditHeader",
+			"storeChargesCategories",
+			"removegeneralCharge",
+			"rowEditingChargesST",
+			"new Ext.grid.plugin.RowEditing({\n            clicksToMoveEditor: 2,\n            autoCancel: false,\n            errorSummary: false,\n            listeners: {\n                beforeedit: {\n                    delay: 100,\n                    fn: function(item, e) {\n                        this.getEditor().onFieldChange();\n                    }\n                },\n                cancelEdit: {\n                    fn: function(rowEditing, context) {\n                        var grid = this.editor.up(\"gridpanel\");\n                        // Canceling editing of a locally added, unsaved record: remove it\n                        if (context.record.phantom) {\n                            grid.store.remove(context.record);\n                            grid.up('form').recalcTotals();\n                        }\n                    }\n                },\n                edit: {\n                    fn: function(editor, context) {\n                        var grid = this.editor.up('gridpanel'),\n                            record = context.record,\n                            fromEdit = true,\n                            isPhantom = record.phantom;\n\n                        if (record.data.POVType === 'PB') {\n                            record.data.POVAmount = Math.abs(record.data.POVAmount) * -1;\n                            record.data.POVAmountNB = Math.abs(record.data.POVAmountNB) * -1;\n                        }\n\n                        record.save({\n                            callback: function() {\n                                grid.store.reload({\n                                    callback: function() {\n                                        if (fromEdit && isPhantom)\n                                            grid.up('panel').down(\"#addlinePOV\").fireHandler();\n                                        grid.up('form').recalcTotals();\n                                    }\n                                });\n                            }\n                        });\n                    }\n                }\n            }\n        });",
+			"onBackToQuotes",
+			"onSearchFieldDetailChange",
+			"nSearchFieldDetailChange",
+			"onShowWindow",
+			"ChargesDescriptions",
+			"CCategory",
+			"ChargesCategories",
+			"DocType",
+			"DocumentTypes",
+			"CCDetailId",
+			"CustomsClearenceDetails",
+			"CClearenceId",
+			"ChargesDescriptions",
+			"CustomsClearence",
+			"ChargeDescId",
+			"ChargesDescriptions",
+			"CCategoryId",
+			"ChargesCategories",
+			"CCategoryId",
+			"ChargesCategories",
+			"POVId",
+			"PurchaseOrdersVendors",
+			"POVId",
+			"PurchaseOrdersVendors",
+			"48",
+			"GlobalSettings.deniedAccess",
+			"{3,4}",
+			"BankName",
+			"Banks",
+			"Status",
+			"TotalQuotes",
+			"onDataViewDblClick",
+			".onDataViewDblClick",
+			"onSearchFieldChange",
+			"PI",
+			"Comments",
+			"x_GrandInvoice",
+			"chart.store",
+			"contentChartA",
+			"chart.getEl().show();",
+			"chart.show();",
+			"contentChartA.getEl().unmask();",
+			"chart.getEl()",
+			"viewPaidDetails",
+			"ShowOnlySelected",
+			"Invoi",
+			"IAMTrading.view.EditVendor",
+			"addline",
+			"showOn",
+			"quotesdetailslistpanel",
+			"PaySelectedPOV",
+			"historysearchlistpanel",
+			"itemslistpanel",
+			"vendorslistpanel",
+			"editvendorpanel",
+			"up('panel",
+			"editquoteheader",
+			".up('form')",
+			"IAMTrading.view.",
+			"Ext.get",
+			"content",
+			"Ext.getCmp('content-panel')",
+			"'IAMTrading.view.",
+			"quoteslistpanel",
+			"id:",
+			".x-grid-row-summary",
+			"BankAccounts",
+			"AccountID",
+			"BankAccounts",
+			"onClickAttach",
+			"imageTpl",
+			"checkBalance",
+			"images",
+			"#images-view",
+			"AccountID",
+			"PayModeID",
+			"SecNombre",
+			"storePaymentModes",
+			"BankID",
+			"Banks",
+			"BankId",
+			"Broker",
+			"'IAMTrading.store.",
+			"BankID",
+			"Banks",
+			"Broker",
+			"Brokers"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"IAMTrading.",
+			"storeVQDetails",
+			"gridVQDetails",
+			"storeVendorQuoteDetail",
+			"ItemId",
+			"VendorQuote",
+			"vendorQuoteId",
+			"VendorQuoteId",
+			"EditVendorQuote",
+			"VendorQuotes",
+			"VQDetailId",
+			"VendorQuotesDetail",
+			"VQDetailId",
+			"VendorQuotesDetail",
+			"VendorQuoteId",
+			"VendorQuotes",
+			"VendorQuoteId",
+			"VendorQuotes",
+			"storeChargesDescriptions",
+			"removeGeneralCharge",
+			"rowEditingGenearlCharges",
+			"onRenderForm",
+			"CustomClearence",
+			"ChargeDesc",
+			"ChargesDescriptions",
+			"CCategory",
+			"ChargesCategories",
+			"GChargeId",
+			"GeneralCharges",
+			"CCDetailId",
+			"CustomsClearenceDetails",
+			"CClearenceId",
+			"CustomsClearence",
+			"ChargeDescId",
+			"ChargesDescriptions",
+			"ChargeDescId",
+			"ChargesDescriptions",
+			"CCategoryId",
+			"ChargesCategories",
+			"CCategoryId",
+			"ChargesCategories",
+			"100",
+			"IAMTrading.GlobalSettings.deniedAccess",
+			"[3,4]",
+			"RoleName",
+			"Roles",
+			"chartA.store",
+			"chartA",
+			"contentChartA.getEl().unmask();",
+			"chart.getEl().show();",
+			"chart.show()",
+			"contentChartA.getEl()",
+			"QuoteChart",
+			"",
+			"vp.down('app_ContentPanel')",
+			"vp.down('app_ContentPanel');",
+			"'",
+			"viewPaidDetails",
+			"DetailId",
+			"ViewPaidDetails",
+			"onClickViewDetails",
+			".data-view",
+			"BankName",
+			"AccountID",
+			"BankAccounts",
+			"Bank",
+			"'",
+			"AccountID",
+			"BankAccounts",
+			"Bank",
+			"Banks",
+			"Attachments",
+			"Attachment",
+			"reversePaid",
+			"vp.getEl().unmask();",
+			"var vp = this.up('app_viewport');\n\nvp.getEl().unmask();",
+			"var vp = this.up('app_viewport');\n\n                    vp.getEl().mask(\"Please Wait...\");",
+			"vp.getEl().",
+			"form.up('app_viewport').getEl().",
+			"vp.getEl().unmask();",
+			"edititempanel",
+			"Images",
+			"Image",
+			"panelImages",
+			"onlyWithBalance",
+			"me",
+			"(60 /",
+			"var myMask = new Ext.LoadMask({\n                                targe: Ext.getBody(),\n                                msg: \"Please Wait...\"\n                            });",
+			"new IAMTrading.store.",
+			"new IAMTrading.",
+			"removeline",
+			"addline",
+			"rowEditing",
+			"PayVendorDetailId",
+			"PaymentVendorDetails",
+			"PayVendorId",
+			"PaymentVendors",
+			"PayVendorDetailId",
+			"PaymentVendorDetails",
+			"PayModeDescription",
+			"PayMode",
+			"PaymentModes",
+			"PayModeID",
+			"PaymentModes",
+			"PayModeID",
+			"PaymentModes",
+			"Doc",
+			"editvendorpanel",
+			"Curso",
+			"saveDocument",
+			"filterDateField",
+			"FilterDateField",
+			"dateTo",
+			"dateFrom",
+			"DateTo",
+			"DateFrom",
+			"flex:2",
+			"font-size: 12px;text-align: right;",
+			"labelAlign: 'left'",
+			"DocType",
+			"DocTypeID",
+			"DocumentTypes",
+			"QuoteDocuments",
+			"DocType",
+			"DocumentTypes",
+			"me",
+			"showOnlySelected",
+			"Proxy"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/controller/Home.js",
+					"settings":
+					{
+						"buffer_size": 3597,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								781,
+								781
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 210.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/GlobalSettings.js",
+					"settings":
+					{
+						"buffer_size": 1511,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1478,
+								1478
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/view/EditQuoteHeader.js",
+					"settings":
+					{
+						"buffer_size": 110321,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4832,
+								4832
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1561.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 120.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true
+}

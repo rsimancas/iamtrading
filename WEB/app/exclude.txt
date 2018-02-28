@@ -1,0 +1,8 @@
+.bak
+.BAT
+.TXT
+.RAR
+.sublime-project
+.sublime-workspace
+.xds
+.psd

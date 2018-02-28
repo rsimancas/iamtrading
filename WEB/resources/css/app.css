@@ -1,0 +1,174 @@
+/**
+ * Emulating <blink> using WebKit CSS3 animation        
+ *   This code is part of John Smith's blog
+ *
+ * Copyright 2010 by John Smith, All Rights Reserved
+ *
+ * @link   http://www.john-smith.me/emulating--lt-blink-gt--using-webkit-css3-animation
+ * @date   18th October 2010 at 11:01 p.m.
+ * @author John Smith
+ */
+@-webkit-keyframes blinker { from {opacity:1.0;} to {opacity:0.0;} }
+        @keyframes blinker { from {opacity:1.0;} to {opacity:0.0;} }
+
+.blink {
+   text-decoration:blink;
+
+  -webkit-animation-name:blinker;
+          animation-name:blinker;  
+  -webkit-animation-iteration-count:infinite;  
+          animation-iteration-count:infinite;  
+  -webkit-animation-timing-function:cubic-bezier(1.0,0,0,1.0);
+          animation-timing-function:cubic-bezier(1.0,0,0,1.0);
+  -webkit-animation-duration:3s; 
+          animation-duration:3s; 
+}
+
+.estatus-normal {
+    float: center;
+    margin: 4px;
+    font-size: 13px;
+    text-align: center;
+    color:#01fb01;
+    font-weight: bold;
+    /*text-decoration:blink;
+
+      -webkit-animation-name:blinker;
+              animation-name:blinker;  
+      -webkit-animation-iteration-count:infinite;  
+              animation-iteration-count:infinite;  
+      -webkit-animation-timing-function:cubic-bezier(1.0,0,0,1.0);
+              animation-timing-function:cubic-bezier(1.0,0,0,1.0);
+      -webkit-animation-duration:1s; 
+              animation-duration:1s; */
+}
+
+.estatus-alerta {
+    float: center;
+    font-size: 13px;
+    text-align: center;
+    color:red;
+    font-weight: bold;
+    text-decoration:blink;
+
+      -webkit-animation-name:blinker;
+              animation-name:blinker;  
+      -webkit-animation-iteration-count:infinite;  
+              animation-iteration-count:infinite;  
+      -webkit-animation-timing-function:cubic-bezier(1.0,0,0,1.0);
+              animation-timing-function:cubic-bezier(1.0,0,0,1.0);
+      -webkit-animation-duration:1.5s; 
+              animation-duration:1.5s;
+}
+
+.estatus-warning {
+    float: center;
+    font-size: 13px;
+    text-align: center;
+    color:orange;
+    font-weight: bold;
+    text-decoration:blink;
+
+      -webkit-animation-name:blinker;
+              animation-name:blinker;  
+      -webkit-animation-iteration-count:infinite;  
+              animation-iteration-count:infinite;  
+      -webkit-animation-timing-function:cubic-bezier(1.0,0,0,1.0);
+              animation-timing-function:cubic-bezier(1.0,0,0,1.0);
+      -webkit-animation-duration:1.5s; 
+              animation-duration:1.5s;
+}
+
+#leftPanel
+{
+    height: 450px;
+    width: 400px;
+    background:#bdbbbb;
+    float: left;
+    display: none;    
+    color: white;
+    font-size: xx-large;
+    top: 10px;
+}
+
+#leftClick
+{
+    height: 60px;
+    width: 25px;
+    background: #bdbbbb;
+    background: url("../../images/leftside.png");
+    float: left; 
+    top: 200px;
+}
+.vertical-text {
+    transform: rotate(90deg);
+    transform-origin: top 10px;
+}
+.vertical-text {
+    /*float: left;*/
+    color: black;
+    z-index: 0;
+}
+
+#show-option {
+  color: white;
+  font-style: normal;
+}
+
+.redClass {
+    background-color: #ba040d;
+}
+.greenClass {
+    background-color: #1db304;
+}
+.orangeClass {
+    background-color: #de7404;
+}
+
+/*@font-face {
+  font-family : 'FontAwesome';
+  src         : url('../font-awesome-4.2.0/fonts/fontawesome-webfont.eot?32940503');
+  src         : url('../font-awesome-4.2.0/fonts/fontawesome-webfont.eot?32940503#iefix') 
+        format('embedded-opentype'), url('../font-awesome-4.2.0/fonts/fontawesome-webfont.woff?32940503') 
+        format('woff'), url('../font-awesome-4.2.0/fonts/fontawesome-webfont.ttf?32940503') format('truetype'), 
+        url('../font-awesome-4.2.0/fonts/fontawesome-webfont.svg?32940503#FontAwesome') format('svg');
+  font-weight : normal;
+  font-style  : normal;
+}*/
+
+@font-face {
+  font-family: 'icomoon';
+  src:url('../fonts/icomoon/icomoon.eot?u4hjk');
+  src:url('../fonts/icomoon/icomoon.eot?#iefixu4hjk') format('embedded-opentype'),
+    url('../fonts/icomoon/icomoon.woff?u4hjk') format('woff'),
+    url('../fonts/icomoon/icomoon.ttf?u4hjk') format('truetype'),
+    url('../fonts/icomoon/icomoon.svg?u4hjk#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  font-family: 'icomoon';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-office:before {
+  content: "\e903";
+}
+
+.icon-clock:before {
+  content: "\e94e";
+}
+
+.icon-truck:before {
+  content: "\e9b0";
+}

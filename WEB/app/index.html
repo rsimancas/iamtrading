@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style type="text/css">
+    #loading {
+        width: 100%;
+        height: 100%;
+        top: 0px;
+        left: 0px;
+        position: fixed;
+        display: block;
+        z-index: 99;
+        background-color: #1985D0
+    }
+    
+    #loading-image {
+        position: absolute;
+        top: 40%;
+        left: 45%;
+        z-index: 100
+    }
+    </style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="SHORTCUT ICON" href="../resources/images/favicon.ico" type="image/x-icon" />
+    <title>IAM Trading Corp.</title>
+    <script src="../packages/ext-4.2.1.883/ext-all.js"></script>
+    <script src="../packages/ext-4.2.1.883/ext-theme-neptune.js"></script>
+    <link rel="stylesheet" href="../packages/ext-4.2.1.883/resources/ext-theme-neptune/ext-theme-neptune-all.css">
+    <link rel="stylesheet" href="app/resources/css/font-awesome.min.css">
+    <script type="text/javascript">
+        var today = new Date(),
+            href = '?_DC=' + today.getTime();
+        
+        // We load some scripts
+        Ext.Loader.loadScript({
+            url: "scripts/behavior.js" + href,
+            onLoad: function() {
+                Ext.Loader.loadScript({
+                    url: "../packages/JIC.js" + href,
+                    onLoad: function() {
+                        Ext.Loader.loadScript({
+                            url: "app.js" + href
+                        });
+                    }
+                });
+            }
+        });
+    </script>
+</head>
+
+<body>
+    <div id="loading">
+        <img id="loading-image" src="images/loading.gif" alt="Loading..." />
+    </div>
+</body>
+
+</html>

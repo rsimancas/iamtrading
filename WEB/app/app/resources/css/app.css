@@ -1,0 +1,343 @@
+/*[class*="icon-"] {
+	display: inline-block;
+	width: 32px;
+	height: 32px;
+	background-image: url(sprites.svg);
+	background-repeat: no-repeat;
+    }*/
+
+    /* Message Success on Save*/
+    #app-popup-success-div {
+        position:absolute;
+        left:50%;
+        top:10px;
+        width:350px;
+        margin-left:-200px;
+        z-index:20000;
+    }
+    #app-popup-success-div .msgSuccess {
+        border-radius: 8px;
+        -moz-border-radius: 8px;
+        background-color: #208F20;
+        /*background-color: blue;*/
+        border: 2px solid #88cc88;
+        margin-top: 2px;
+        padding: 10px;
+    }
+    #app-popup-success-div .msgSuccess h3 {
+        /*margin-left: 3em;
+        vertical-align: bottom;*/
+        color: white;
+        text-align: center;
+    }
+
+    /* Message Success */
+
+    /* Message Error on Save */
+    #app-popup-error-div {
+        position:absolute;
+        left:50%;
+        top:10px;
+        width:350px;
+        margin-left:-150px;
+        z-index:20000;
+    }
+    #app-popup-error-div .msgError {
+        border-radius: 8px;
+        -moz-border-radius: 8px;
+        border: 2px solid #FF5B5B;
+        margin-top: 2px;
+        padding: 10px;
+        background-color: #FF2E2E;
+    }
+    #app-popup-error-div .msgError h3 {
+        vertical-align: bottom;
+        color: white;
+        text-align: center;
+    }
+    /* Message Error on SAVE */
+
+
+
+    /* override: sencha theme */
+    .custom-grid .x-grid-cell { 
+        background-color: #ffa; 
+        border-bottom-color: #ffc; 
+        border-top-color: #ff5; 
+        color: #000; 
+    }
+
+    .custom-grid .x-grid-row-alt { 
+        background-color: #fafafa; 
+        border-bottom-color: #ffc; 
+        border-top-color: #ff5; 
+        color: #000; 
+    }
+
+    /* Grid cells when the mouse cursor is over the row */ 
+    .custom-grid .x-grid-row-over .x-grid-cell { 
+        background-color: #3892d3; 
+        border-bottom-color: #999; 
+        border-bottom-style: dashed; 
+        border-top-color: #999; 
+        border-top-style: dashed; 
+    } 
+
+    /* Grid cells in the selected row */ 
+    .custom-grid .x-grid-row-selected .x-grid-cell { 
+        background-color: #3892d3; 
+        border-bottom-color: #999; 
+        border-bottom-style: solid; 
+        border-top-color: #999; 
+        border-top-style: solid; 
+    }
+
+    .ux-row-expander-comment  p {
+        font-size:x-small;
+    }
+
+    .custom-viewport {
+        background-color: #3892d3;
+    }
+
+    .black-viewport {
+        background-color: black;
+    }
+
+    .custom-grid .x-grid-row .x-grid-cell-inner {
+        white-space: normal;
+    }
+    .custom-grid .x-grid-row-over .x-grid-cell-inner {
+        font-weight: bold;
+        white-space: normal;
+    }
+
+    .x-grid-cell-inner {
+      font-size: 10px;
+  }
+
+  .x-column-header-inner {
+      font-size: 10px;
+  }
+
+  .x-form-text {
+    font-size: 10px;
+}
+
+.x-form-item-label {
+    font-size: 10px;
+}
+
+.x-boundlist-item {
+    font-size: 10px;
+}
+
+.x-form-field {
+    font-size: 11px;
+}
+
+.x-grid-row-summary td.x-grid-td .x-grid-cell-inner {
+    font-size: 12px;
+    font-weight: bold;
+    color: green;
+}
+
+.x-form-cb-label {
+    font-size: 11px;
+}
+
+.app-check{
+    background-image:url(images/check.gif);
+    width: 24px;
+    height: 24px;
+}
+.app-cross{
+    background-image:url(images/cross.gif);
+    width: 24px;
+    height: 24px;
+}
+
+.app-page-save{background-image:url(images/page-save.png)}
+.app-page-edit{background-image:url(images/page-edit.png)}
+.app-page-undo{background-image:url(images/page-undo.png)}
+.app-page-delete{background-image:url(images/page-delete.png)}
+.app-page-add{background-image:url(images/page-add.png)}
+.app-page-first{background-image:url(images/page-first.png)}
+.app-page-prev{background-image:url(images/page-prev.png)}
+.app-page-next{background-image:url(images/page-next.png)}
+.app-page-last{background-image:url(images/page-last.png)}
+.app-page-refresh{background-image:url(images/page-refresh.png)}
+.app-find{ 
+    background-image:url(images/find.png);
+}
+.app-find:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.app-search { 
+    background-image:url(images/search.png);
+}
+.app-search:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.app-user{ 
+    background-image:url(images/user.png);
+}
+.app-user:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.app-logout{ 
+    background-image:url(images/logout.png);
+}
+.app-logout:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.app-grid-edit{ 
+    background-image:url(images/grid-edit.png);
+}
+.app-grid-edit:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.app-print{ 
+    background-image:url(images/print.png);
+}
+.app-print:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.app-attachment{background-image:url(images/attachment.png)}
+.app-camera{background-image:url(images/camera.png)}
+.app-camera:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.x-btn-toolbar-small-cus {
+   background: transparent;
+   border:none!important;
+}
+
+.x-btn-toolbar-small-cus .x-btn-inner {
+   color: white;
+}
+
+.x-btn-toolbar-small-cus:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+/*.x-body {
+    font-family: Tahoma;
+    font-size: 9px;
+    color: #333;
+}*/
+
+/**
+ * Emulating <blink> using WebKit CSS3 animation        
+ *   This code is part of John Smith's blog
+ *
+ * Copyright 2010 by John Smith, All Rights Reserved
+ *
+ * @link   http://www.john-smith.me/emulating--lt-blink-gt--using-webkit-css3-animation
+ * @date   18th October 2010 at 11:01 p.m.
+ * @author John Smith
+ */
+@-webkit-keyframes blinker { from {opacity:1.0;} to {opacity:0.0;} }
+        @keyframes blinker { from {opacity:1.0;} to {opacity:0.0;} }
+
+.blink {
+   text-decoration:blink;
+
+  -webkit-animation-name:blinker;
+          animation-name:blinker;  
+  -webkit-animation-iteration-count:infinite;  
+          animation-iteration-count:infinite;  
+  -webkit-animation-timing-function:cubic-bezier(1.0,0,0,1.0);
+          animation-timing-function:cubic-bezier(1.0,0,0,1.0);
+  -webkit-animation-duration:1s; 
+          animation-duration:1s; 
+}
+
+.estatus-normal .x-change-cell {
+    color:green;
+    font-weight: bold;
+}
+
+.estatus-alerta .x-change-cell {
+    color:red;
+    font-weight: bold;
+    text-decoration:blink;
+
+      -webkit-animation-name:blinker;
+              animation-name:blinker;  
+      -webkit-animation-iteration-count:infinite;  
+              animation-iteration-count:infinite;  
+      -webkit-animation-timing-function:cubic-bezier(1.0,0,0,1.0);
+              animation-timing-function:cubic-bezier(1.0,0,0,1.0);
+      -webkit-animation-duration:1s; 
+              animation-duration:1s; 
+}
+
+.picture-capture .icon {position:absolute;width:100%;height:100%;color:#fff;text-align:center;font-size:0.8em}
+.picture-capture .icon i{display:block;font-size:3.5em;color:#fff}
+.icon-camera{background-image:url(images/camera.png);background-repeat: none;}
+/*.icon-camera:before{font-style:normal;text-align:center;font-family:'Pictos';content:"v"}
+
+/*.x-form-type-text textarea.x-form-invalid-field, .x-form-type-text input.x-form-invalid-field, .x-form-type-password textarea.x-form-invalid-field, .x-form-type-password input.x-form-invalid-field, .x-form-type-number textarea.x-form-invalid-field, .x-form-type-number input.x-form-invalid-field, .x-form-type-email textarea.x-form-invalid-field, .x-form-type-email input.x-form-invalid-field, .x-form-type-search textarea.x-form-invalid-field, .x-form-type-search input.x-form-invalid-field, .x-form-type-tel textarea.x-form-invalid-field, .x-form-type-tel input.x-form-invalid-field {
+    background-color: rgb(255,234,234);
+    background-image: url(images/grid/invalid_line.gif);
+    background-repeat: repeat-x;
+    background-position: bottom;
+    border-color: #c30;
+}
+*/
+
+/* CSS */
+/*
+.x-mask-loading {
+    background-color: white;
+}
+*/
+
+.totalColumn {
+    color:green;
+    font-weight: bold;
+}
+
+.noCostColumn {
+    color:red;
+    font-weight: bold;
+}
+
+.header-iconx {
+    width: 24;
+    height: 24;
+}
+
+.var-positive .x-form-field {
+    color: blue;
+}
+
+.var-negative .x-form-field {
+    color: red;
+}
+
+.excel{background-image:url(images/excel.png)}
